@@ -1,0 +1,6 @@
+﻿  010-file-validator-with-coloring.cpp
+c:\xampp\htdocs\projekty\haven\haven-cpp\010-file-validator-with-coloring\010-file-validator-with-coloring\010-file-validator-with-coloring.cpp(21): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\xampp\htdocs\projekty\haven\haven-cpp\010-file-validator-with-coloring\010-file-validator-with-coloring\010-file-validator-with-coloring.cpp(21): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\xampp\htdocs\projekty\haven\haven-cpp\010-file-validator-with-coloring\010-file-validator-with-coloring\010-file-validator-with-coloring.cpp(21): note: the missing variadic argument 2 is required by format string '%c'
+  c:\xampp\htdocs\projekty\haven\haven-cpp\010-file-validator-with-coloring\010-file-validator-with-coloring\010-file-validator-with-coloring.cpp(21): note: this argument is used as a buffer size
+  010-file-validator-with-coloring.vcxproj -> C:\xampp\htdocs\projekty\haven\haven-cpp\010-file-validator-with-coloring\Debug\010-file-validator-with-coloring.exe
